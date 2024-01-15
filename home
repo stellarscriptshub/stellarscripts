@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#myHeader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+
+<h2>Stellar Scripts</h2>
+<p>"myHeader":</p>
+
+<h1 id="myHeader">Stellar Scripts</h1>
+
+</body>
+</html>
+
